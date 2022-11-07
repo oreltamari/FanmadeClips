@@ -43,13 +43,12 @@ background-color: black;
 
 .headline h3 {
     margin-top: 2%;
-    left: 25%;
-    right: 25%;
+    margin-left: 25%;
+    margin-right: 25%;
     bottom: 0;
     font-weight: 500;
     color: white;
     font-size: 26px;
-    color: pink;
 }
 
 .headline h5 {
