@@ -335,13 +335,13 @@ padding-left: 25%;
             height: auto;
             display: absolute;
         color: black;
-        font-size: 40px;
+        font-size: 36px;
         text-align: center;
             
         }
         
         .uu {
-            padding-top: 2%;
+            padding-top: -1%;
             float: left;
             width: 100%;
             text-align: center;
