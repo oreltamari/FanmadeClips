@@ -318,7 +318,11 @@ padding-left: 25%;
             height: 5vh;
             position: absolute;
         }
-
+.WriterNameAndSocialMedia h5 {
+    font-size: 35px;
+    font-weight: 800;
+    padding-top: 0%;
+}
         #ui {
             font-size: 35px;
             font-weight: 800;
