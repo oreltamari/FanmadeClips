@@ -38,17 +38,17 @@ background-color: black;
 .headline h1 {
     font-weight: 300;
     color: white;
-    font-size: 56px;
+    font-size: 64px;
 }
 
 .headline h3 {
     margin-top: 2%;
-    left: 5%;
-    right: 5%;
+    left: 10%;
+    right: 10%;
     bottom: 0;
     font-weight: 500;
     color: white;
-    font-size: 24px;
+    font-size: 26px;
 }
 
 .headline h5 {
@@ -995,8 +995,8 @@ padding-left: 25%;
         
         .headline h3 {
             margin-top: 10%;
-            left: 10%;
-            right: 10%;
+            left: 5%;
+            right: 5%;
             bottom: 0;
             font-weight: 500;
             color: white;
