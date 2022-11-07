@@ -1,0 +1,22 @@
+body {
+ margin: 0;
+ padding: 0;
+}
+
+.logoContainer {
+    height: 100vh;
+    display: absolute;
+    align-items: center;
+    justify-content: center;
+    background: gold;
+}
+
+.button {
+    margin: 1rem;
+    font-size: 30px;
+}
+
+.button:hover {
+    transform: scale(1.3);
+    transition-duration: 0.5s;
+}
