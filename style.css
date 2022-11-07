@@ -488,6 +488,7 @@ padding-left: 25%;
 
 
 /*Phone Screen*/
+
 @media only screen and (max-width:380px) {
     .backgroundHeadline {
         background-color: black;
@@ -968,6 +969,7 @@ padding-left: 25%;
 
 /*Phone Screen*/
 @media only screen and (min-width:768px) and (max-width: 1025px) {
+    
     .backgroundHeadline {
         background-color: black;
             opacity: 100%;
@@ -993,8 +995,8 @@ padding-left: 25%;
         
         .headline h3 {
             margin-top: 10%;
-            left: 5%;
-            right: 5%;
+            left: 10%;
+            right: 10%;
             bottom: 0;
             font-weight: 500;
             color: white;
